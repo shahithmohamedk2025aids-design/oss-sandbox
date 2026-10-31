@@ -7,3 +7,9 @@ My goal is to make meaningful contributions and prepare for Google Summer of Cod
 - Installed and configured Git.
 - Connected my computer to GitHub using SSH.
 - Created my first two Git commits.
+
+## Skills I Am Learning
+- Git basics
+- GitHub repository management
+- Branching and merging
+- Open-source contribution workflow
