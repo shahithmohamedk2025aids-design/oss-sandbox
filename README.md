@@ -13,3 +13,5 @@ My goal is to make meaningful contributions and prepare for Google Summer of Cod
 - GitHub repository management
 - Branching and merging
 - Open-source contribution workflow
+
+Learning Git from the main branch.
